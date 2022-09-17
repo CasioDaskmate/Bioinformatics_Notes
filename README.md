@@ -1,4 +1,3 @@
-# Bioinformatics_Notes
+# 简单的个人主页...大概算是？
 
-this is my first repository and I would add more information as I learn more!
-Hello World!
+emm....Hello World!
