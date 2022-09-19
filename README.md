@@ -2,4 +2,4 @@
 
 emm....Hello World!
 
-[个人介绍](test.md)
+[个人信息](info.md)
