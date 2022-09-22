@@ -41,3 +41,13 @@
 40. snip·pet    /ˈsnɪpɪt/   (n.一小条（消息）;一小段（谈话、音乐等）)
 41. dilation   /daɪˈleɪʃn/     (v.扩张)
 42. ar·bi·trary    /ˈɑːbɪtrəri/     (adj.任意的)
+### week 1
+1. ethic           (n.道德学；伦理学；道德准则)
+2. ob·li·ga·tion       (n.义务)
+3. ecosophy = ecological philosophy = (n.生态哲学)
+4. humanity        (n.人性;人文)
+5. cri·sis         (n.危机)
+6. hol·is·tic    /həʊˈlɪstɪk/    (adj.整体的)
+7. con·struct  /kənˈstrʌkt/    (v.组成;修建  n.概念)
+8. totipotent              (adj.全能的)
+9. elu·sive    /iˈluːsɪv/  (adj.难找的;难以解释的)
