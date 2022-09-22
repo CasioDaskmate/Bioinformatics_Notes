@@ -2,4 +2,4 @@
 
 [个人信息](info/info.md)
 
-[笔记整理]()
+[大三笔记整理](notes/total.md)
