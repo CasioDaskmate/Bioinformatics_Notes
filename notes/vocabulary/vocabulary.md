@@ -1,4 +1,5 @@
 ### week 0 
+![](pronounce.png)
 1. aversive odor               (厌恶的气味)
 2. cas·cade       /kæˈskeɪd/     (n.信息的连续传递过程)
 3. ap·pend·age     /əˈpendɪdʒ/   (n.附肢)
