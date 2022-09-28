@@ -4,4 +4,4 @@
 
 [背单词！](vocabulary/vocabulary.md)
 
-[物理化学思维导图](PhCh/)
+[物理化学思维导图](PhCh/test.html)
