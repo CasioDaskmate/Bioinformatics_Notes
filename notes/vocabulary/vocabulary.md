@@ -52,3 +52,34 @@
 7. con·struct  /kənˈstrʌkt/    (v.组成;修建  n.概念)
 8. totipotent              (adj.全能的)
 9. elu·sive    /iˈluːsɪv/  (adj.难找的;难以解释的)
+### week 2
+1. lysosomal   （adj.溶酶体的）
+2. glia        （n.神经胶质）
+3. de·priv·ation   （n.匮乏）   /ˌdeprɪˈveɪʃn/
+4. intracellular   （adj.细胞内的）
+5. organelle       （n.细胞器）    /ˌɔːɡəˈnel/
+6. cytosol         （n.细胞质基质）
+7. se·ques·ter     （v.使隔离）   /sɪˈkwestə(r)/ 
+8. autophagy       （n.自噬）
+9. subsequently    （adv.随后）
+10. vacuolar        （adj.有液泡的）
+11. accumulate      （v.积累）
+12. spherical       （adj.球形的）  /ˈsferɪkl/
+13. synchronously   （adv.同时地）  /'siŋkrənəsli/
+14. degradation     （n.降解）
+15. homeo·stasis    （n.稳态）      /ˌhəʊmiəˈsteɪsɪs/
+16. whereby         （adv.凭此）
+17. deliver         （v.递交；移交）
+18. ac·ces·sory     （adj.辅助的）  /əkˈsesəri/
+19. in·va·sive      （adj.侵入的）  /ɪnˈveɪsɪv/
+20. disruption      （n.中断;扰乱）
+21. simultaneously  （adv.同时地）
+22. laboratory      （n.实验室）
+23. fusion          （v.融合）
+24. apoptosis       （n.细胞凋亡）
+25. debris          （n.碎屑）
+26. scarcely        （adv.几乎不）
+27. texture         （n.质地；手感）
+28. genuine         （adj.真正的；非伪造的）
+29. complementation （adj.互补）
+30. indispensable   （adj.不可或缺的）
