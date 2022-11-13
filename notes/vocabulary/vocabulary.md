@@ -83,3 +83,78 @@
 28. genuine         （adj.真正的；非伪造的）
 29. complementation （adj.互补）
 30. indispensable   （adj.不可或缺的）
+### week3
+```{ .line-numbers}
+configuration（n.构型）
+intact（adj.完好无损的；完整的）
+discard（v.丢弃）
+pellet（n.颗粒）
+```
+
+### week5
+```{ .line-numbers}
+recombinant（adj.重组的）
+segment（n.片段）
+derive（v.获取）
+investigate（v.研究）
+diagnosis（n.诊断）
+commercial（adj.商业的）
+prevalence（n.流行；盛行）
+nausea（n.恶心、反胃）
+vomit（v.呕吐）
+rodent（n.啮齿类动物）
+solid（adj.坚固的；可靠的）
+projection（n.预测；投影）
+contraction（n.收缩）
+```
+
+### week6
+```{ .line-numbers}
+inoculate（v.接种）
+precipitate（v.沉淀）
+capacity（n.能力）
+exogenous（adj.外源的）
+sterile（adj.无菌的）
+turbid（adj.浑浊的）
+pellet（n.沉淀物）
+aid（v.帮助）
+granule（n.颗粒）
+concert（n.一致）
+perception（n.感知）
+cognition（n.认知）
+obstacle（n.障碍）
+differentiation（n.分化）
+orchestrate（v.把...协调地安排起来）
+condensation（n.凝聚）
+halt（v.阻断）
+inert（adj.惰性的）
+spermatid（n.精细胞）
+rationale（n.根本原因）
+testis（n.睾丸）
+fragile（adj.易碎的）
+decipher（v.破译；辨认）
+recruit（v.招募）
+ectopic（adj.异位的）
+lentivirus（n.慢病毒）
+demonstrate（v.证明）
+infertile（adj.不育的）
+pronounced（adj.显著的）
+undergo（v.经历）
+underlie（v.构成...的基础）
+unveil（v.揭示）
+duplication（n.重复）
+```
+
+### week8
+```{ .line-numbers}
+mitotic（adj.有丝分裂的）
+spindle（n.纺锤体）
+furrow（n.沟；辙）
+metazoan（n.多细胞生物）
+neuroblast（n.成神经细胞）
+cortex（n.皮层；大脑皮层）
+progenitor（n.祖先；起源）
+manipulation（n.操作；篡改）
+cleavage（n.分裂）
+asymmetric（adj.不对称的）
+```
