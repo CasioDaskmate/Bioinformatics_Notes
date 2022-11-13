@@ -146,7 +146,7 @@ duplication（n.重复）
 ```
 
 ### week8
-```{ .line-numbers}
+```python{ .line-numbers}
 mitotic（adj.有丝分裂的）
 spindle（n.纺锤体）
 furrow（n.沟；辙）
