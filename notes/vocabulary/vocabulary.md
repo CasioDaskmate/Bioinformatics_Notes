@@ -84,7 +84,7 @@
 29. complementation （adj.互补）
 30. indispensable   （adj.不可或缺的）
 ### week3
-```{ .line-numbers}
+```
 configuration（n.构型）
 intact（adj.完好无损的；完整的）
 discard（v.丢弃）
@@ -92,7 +92,7 @@ pellet（n.颗粒）
 ```
 
 ### week5
-```{ .line-numbers}
+```
 recombinant（adj.重组的）
 segment（n.片段）
 derive（v.获取）
@@ -109,7 +109,7 @@ contraction（n.收缩）
 ```
 
 ### week6
-```{ .line-numbers}
+```
 inoculate（v.接种）
 precipitate（v.沉淀）
 capacity（n.能力）
@@ -146,7 +146,7 @@ duplication（n.重复）
 ```
 
 ### week8
-```python{ .line-numbers}
+```
 mitotic（adj.有丝分裂的）
 spindle（n.纺锤体）
 furrow（n.沟；辙）
